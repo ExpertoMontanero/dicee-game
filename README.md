@@ -1,0 +1,3 @@
+# dicee-game
+Simple dicee game
+soon...
